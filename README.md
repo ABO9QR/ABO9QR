@@ -7,7 +7,6 @@ I'm a passionate developer specializing in creating innovative digital solutions
 ### 🚀 What I Do
 
 - 💻 Full-stack Development
-- 🔄 ETL Process Implementation
 - 📊 Data Analysis & Reporting
 - 🌐 API Development & Integration
 - 📱 Responsive Web Applications
@@ -18,7 +17,7 @@ I'm a passionate developer specializing in creating innovative digital solutions
 ```text
 Frontend        HTML5, CSS3, JavaScript, Bootstrap
 Backend         Node.js, SQL
-Tools           ETL, REST API, POSTMAN
+Tools           REST API, POSTMAN
 ```
 
 ### 🏆 Key Projects
